@@ -1,4 +1,9 @@
 # Dark-Matter-Subs-and-Tracers
+
+Process:
+Data files are generated from simulations with the general script, and plots of dispersion in variable vs time for multiple suites can be created using the analysis function. For other plots (energy vs time, etc.) and fits, and for further detail, see the JupyterLab.
+
+Backgroud:
 Multiple recent studies support the Standard Model of Cosmology in that orbiting dark matter subhalos exist within the galactic dark matter halos that house galaxies. 
 
 These functions were used to determine how different attirbutes of dark matter subhalos factor into the perturbative effects that they have tracer particle orbits. The general idea is to simulate one tracer particle on a circular orbit without dark matter subhalos and another on a circular orbit with dark matter subhalos, and compare the results to produce an estimate for the amount to which dark matter subhalos pull galactic globular clusters to new orbits.
